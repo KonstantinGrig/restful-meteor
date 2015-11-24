@@ -1,11 +1,11 @@
-#### RESTfull APIs for meteor
+#### RESTful APIs for meteor
 
-## Install Package - restfull
-`meteor add konstantingrig:restfull`
+## Install Package - restful
+`meteor add konstantingrig:restful`
 
 ## Example
 
-##### Enable RESTfull for Collection Posts
+##### Enable RESTful for Collection Posts
 ```js
 RestFulCollection.addCollection(Posts);
 ```

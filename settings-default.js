@@ -1,0 +1,3 @@
+RestFulCollection.settings = {
+    'urlApi': 'restapi'
+};
